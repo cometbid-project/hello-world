@@ -17,3 +17,7 @@ Another form of header h1
 And another h2
 --
 
+# Paragraphs  
+I really like using Markdown.  
+I think I'll use it from now on.
+
