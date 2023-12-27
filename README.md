@@ -33,9 +33,36 @@ I love **bold text**. And another __bold text__.
 Love**is**bold
 
 ### Italic  
-_This is italic text_
+_This is italic text_  
 The *cat's meow*. or The _cat's meow_.  
 A*cat*meow
+
+### Bold and Italic  
+***Important*** text.  
+___Important___ text.  
+__*Important*__ text.  
+**_Important_** text.  
+
+### Strike-Through
+~~Strikethrough~~  
+
+## Blockquotes
+
+> Blockquotes can also be nested...
+>
+> And this is second paragraph
+> 
+> > ...by using additional greater-than signs right next to each other...
+> >
+> > > ...or with spaces between arrows.
+
+## Blockquotes with other Elements
+> ##### The quarterly results look great!
+>
+>  - Revenue was off the chart.
+>  - Profits were higher than ever.
+>
+> *Everything* is going **well**.
 
 
 
