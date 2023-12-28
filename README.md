@@ -255,6 +255,22 @@ In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, fill
 You can use a backlash to escape the following characters.
 ``\ ` * _ {} [] () # + - . !``
 
+## Emojis
+To get any Emoji, start by typing a colon and the first letter of a word to get a dropdown.
+
+Grinning:   :grinning:  🙂    
+Laughing or Satisfied:  :laughing: or :satisfied:    
+Rolling on the floor:   :rofl:      
+Smiling face:   🙂 :slightly_smiling_face:    
+Wink:  :wink 😉    
+Innocent: :innocent:  😇  
+Smiley face:  :smiley:    😁  😃  
+Sweat Smile:  	😅  :sweat_smile:  
+Joy:  :joy:  😂  
+Upside Down:    :upside_down_face:  🙃  
+Blushing:   :blush:  😊  
+
+ 
 
 
 
