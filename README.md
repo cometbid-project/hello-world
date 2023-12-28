@@ -237,10 +237,23 @@ In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, fill
 
 ## Images
 
+![Minion](https://octodex.github.com/images/minion.png)  
+
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")  
+
+### Like links, Images also have a footnote style syntax
+
+![The Dojocat][id]
+
+[id]: https://octodex.github.com/images/dojocat.jpg "The Dojocat"
 
 
+### Escaping Characters
 
+\* Without the backlash, this would be a bullet in an unordered list.
 
+You can use a backlash to escape the following characters.
+``\ ` * _ {} [] () # + - . !``
 
 
 
