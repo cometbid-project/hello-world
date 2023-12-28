@@ -1,5 +1,5 @@
 # Hello-World
-Hi,
+Hi there,
 
 # Headers  
 
@@ -121,21 +121,21 @@ __*Important*__ text.
 - Fourth item
 
 ###  Adding Elements in lists
-Paragraphs
+**Paragraphs**
 
 * This is the first list item.  
 * Here's the second list item.  
 I need to add another paragraph below the second list item.
 * And here's the third list item.
 
-Blockquotes
+**Blockquotes**
 
 * This is the first list item.  
 * Here's the second list item.  
     > I need to add another paragraph below the second list item.
 * And here's the third list item.
 
-Code Blocks  
+**Code Blocks**  
 1. Open the file
 2. Find the following code block on line 21:
 
@@ -147,7 +147,7 @@ Code Blocks
     
 3. Update the title to match the name of your website.
 
-Images
+**Images**
 1. Open the file containing Tux, the Linux mascot.
 2. Marvel at its beauty.
    
@@ -156,10 +156,40 @@ Images
 4. Close the file.
 
 
+## Code
 
+At the command prompt, type `nano`.
 
+###  Escaping Tick Marks
 
+``Use `code` in your Markdown file.``
 
+### Indented Code Blocks
 
+            <html>
+              <head>
+              </head>
+            </html>
+
+###  Block code "fences"
+
+```
+Sample html tags below...
+
+<html>
+  <head>
+  </head>
+</html>
+```
+
+### Syntax highlighting
+
+```js
+var foo = function (bar) {
+  return bar++;
+};
+
+console.log(foo(5));
+```
 
 
