@@ -192,4 +192,67 @@ var foo = function (bar) {
 console.log(foo(5));
 ```
 
+## Horizontal Rules
+
+Use three asterisks(***), dashes (---), or underscores(___) on a line by themselves
+***
+---
+___
+
+## Links
+
+Use [Duck Duck Go](https://duckduckgo.com "My search engine!").
+
+Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
+
+### Turn URLs and Email Addresses to links
+
+<https://eff.org>  
+
+<fake@example.com>
+
+### Formatting Links  
+
+I love supporting **[Apache Software Foundation](https://apache.org)**.  
+
+This is **[Apache Software Foundation](https://apache.org)**.
+
+### Reference Style Links 
+
+[hobbit-hole][1]  
+[hobbit-hole-title][2]  
+[hobbit-hole-lowercase][a]  
+[hobbit-hole-bracket][A]  
+
+
+[1]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> 
+[2]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> "Hobbit lifestyles"  
+[a]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> 'Hobbit lifestyles'  
+[A]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> (Hobbit lifestyles)
+
+In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a [hobbit-hole][3], and that means comfort.
+
+[3]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> "Hobbit lifestyles" 
+
+
+## Images
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
