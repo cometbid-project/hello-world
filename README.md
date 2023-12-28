@@ -1,7 +1,10 @@
-# Hello-World
 Hi there,
+---
 
-# Headers  
+# Basic Syntax
+
+
+## Headers  
 
 # h1 Heading  
 ## h2 Heading  
@@ -256,7 +259,7 @@ You can use a backlash to escape the following characters.
 ``\ ` * _ {} [] () # + - . !``
 
 ## Emojis
-To get any Emoji, start by typing a colon and the first letter of a word to get a dropdown.
+To get any Emoji, start by typing a colon and the first letter of a word to get a dropdown of suggestions.
 
 Grinning:   :grinning:  🙂    
 Laughing or Satisfied:  :laughing: or :satisfied:    
