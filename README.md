@@ -403,7 +403,7 @@ _here be dragons_
 
 ##  Anchor Link
 
-Where is my [heading](https://github.com/cometbid-project/hello-world/edit/main/README.md#lists)
+Where is my [heading](#lists)
  
 <br>
 
