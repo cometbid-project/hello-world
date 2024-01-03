@@ -338,7 +338,7 @@ Duplicated footnote reference[^second].
 
 
 ## Custom IDs
-### My [Anchor Link](#anchor-link)
+### [Anchor Link](#anchor-link)
 
 ## My Linked Header <a id="linked-heading"></a>
 
