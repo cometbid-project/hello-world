@@ -338,9 +338,9 @@ Duplicated footnote reference[^second].
 
 
 ## Custom IDs
-### [1. Anchor Link](#anchor-link)
+### [Anchor Link](#anchor-link)
 
-## Lists <a id="lists"></a>
+## My Linked Header <a id="MyHeading"></a>
 
 
 ## Definition Lists (Does not work as expected)
@@ -401,9 +401,9 @@ _here be dragons_
 
 <br>
 
-##  Anchor Link
+##  Anchor Link <a id="anchor-link"></a>
 
-Where is my [heading](#lists)
+Where is my [heading](#MyHeading)
  
 <br>
 
