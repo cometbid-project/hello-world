@@ -48,6 +48,7 @@ __*Important*__ text.
 
 ### Strike-Through
 ~~Strikethrough~~  
+The world is ~~flat~~ round.
 
 ## Blockquotes
 
@@ -274,6 +275,168 @@ Upside Down:    :upside_down_face:  🙃
 Blushing:   :blush:  😊  
 
  
+# Extended Syntax 
+Extended syntx isn't available in all Markdown applications..
+
+## Tables
+
+| Option | Description                                                               |
+| ------ | ------------------------------------------------------------------------- |
+| data   | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default.    |
+| ext    | extension to be used for dest files. 
+
+
+Right aligned columns
+
+| Option |                                                               Description |
+| -----: | ------------------------------------------------------------------------: |
+|   data | path to data files to supply the data that will be passed into templates. |
+| engine |    engine to be used for processing templates. Handlebars is the default. |
+|    ext |                                      extension to be used for dest files. |
+
+Left aligned columns
+
+| Option |                                                               Description |
+| :----- | :------------------------------------------------------------------------ |
+|   data | path to data files to supply the data that will be passed into templates. |
+| engine |    engine to be used for processing templates. Handlebars is the default. |
+|    ext |                                      extension to be used for dest files. |
+
+_Formatting text in Tables_  
+You can add links, code(words or phrases in tick marks (`) only, not code blocks), and emphasis.  
+Headings, blockquotes, list, horizontal rules, images, or HTML tags not allowed.  
+
+To display a pipe(|) character in a table, use it's HTML character code (&#124;).
+
+
+## Fenced Code blocks
+```json
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+## Footnotes           
+Here's a simple footnote,[^1] and here's another footnote with longer text.[^bignote]   
+Footnote 1 link[^first]. 
+Footnote 2 link[^second].  
+Inline footnote^[Text of inline footnote] definition.  
+Duplicated footnote reference[^second].  
+
+
+[^1]: This is the first footnote.
+[^bignote]: Here's one with multiple paragraphs and code.  
+      Indent paragraphs to include them in the footnote.  
+      `{my code}`  
+      Add as many paragraphs as you like.  
+[^first]: Footnote **can have markup**
+    and multiple paragraphs.
+[^second]: Footnote text.
+
+
+## Custom IDs
+### [1. Anchor Link](#anchor-link)
+
+## Lists <a id="lists"></a>
+
+
+## Definition Lists (Does not work as expected)
+First Term   
+    : This is the definition of the first term.
+
+Second Term   
+    : This is one definition of the second term.   
+    : This is another definition of the second term.  
+
+Term 1  
+: Definition 1
+with lazy continuation.
+
+Term 2 with _inline markup_  
+: Definition 2
+
+        { some code, part of Definition 2 }
+
+Third paragraph of definition 2.
+
+_Compact style:_  
+Term 1  
+~ Definition 1  
+
+Term 2  
+~ Definition 2a  
+~ Definition 2b  
+
+## Task Lists
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+## Automatic URL linking
+https://www.apache.org
+
+Disable automatic link
+`https://www.apache.org`
+
+
+
+
+### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
+
+This is HTML abbreviation example.
+
+It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
+
+\*[HTML]: Hyper Text Markup Language
+
+### [Custom containers](https://github.com/markdown-it/markdown-it-container)
+
+::: warning
+_here be dragons_
+:::
+
+
+<br>
+
+##  Anchor Link
+
+Where is my [heading](https://github.com/cometbid-project/hello-world/edit/main/README.md#lists)
+ 
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
